@@ -29,4 +29,4 @@ Para visualizar os exercícios de cada módulo, siga os passos abaixo:
 
 1. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/andressacolareslima/Estrutura-de-decisao-e-repeticao-WoMakersCode.git
+   git clone [https://github.com/andressacolareslima/PyBasicCurseWoMakersCode.git]
