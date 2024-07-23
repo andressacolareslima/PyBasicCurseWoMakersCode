@@ -3,6 +3,9 @@
 # Estrutura do Repositório
 
 Este repositório contém os exercícios realizados para os módulos do curso MaisMulheres em Tech - Python Básico. Cada branch do repositório está relacionada a um módulo específico, conforme descrito abaixo:
+## Módulo 1 - Conceitos básicos de Pytron
+
+**Branch:** `operaçoes-basicas-e-variaveis`
 
 ## Módulo 2 - Estrutura de Decisão e Repetição
 
