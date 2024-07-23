@@ -1,0 +1,1 @@
+print ('Olá, me chamo {}, tenho {} anos e atualmente curso {} na {}. Me formo em {} de {}.'.format('Andressa Colares', 24, 'Ciência da Computação', 'Universidade Federal do Ceará', 'dezembro', 2025))
